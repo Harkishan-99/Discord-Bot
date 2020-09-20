@@ -41,4 +41,4 @@ async def on_member_update(before, after):
                 'status':after.status, 'roles': after.roles, 'nickname': after.nick, 'activities':after.activities}
         print(mssg)
 
-client.run('NzQ3MDcyMzMxMTc5ODg0NjQ0.X0JjUw.WLvxbSp104za--vit1GLarTsDqA')
+client.run('token here')
